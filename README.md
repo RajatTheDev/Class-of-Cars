@@ -21,6 +21,12 @@ While completing this project we have demonstrated the following skills:
   - **CSS styles:** Use of CSS Foundations basic styling of website, which gives us a better view of how CSS can make a simple webpage look so good.
   - **HTML Foundations:** Use of HTML Foundations learning in structuring the website.
 
+## UI Preview
+
+![First-Look](screenshots/image.webp)
+
+![Second-part](screenshots/screenshot_2.webp)
+
 ## Getting Started
 
 To get started with the project, follow the steps:
