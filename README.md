@@ -27,7 +27,7 @@ To get started with the project, follow the steps:
 
   1. Clone the repository: `git clone git@github.com:RajatTheDev/Class-of-Cars.git`
   2. Click on the `index.html` file to get started.
-  3. Customise the file by clicking on the `styles.css`.
+  3. Customise the webpage by clicking on the `styles.css`.
 
 ## Usage
 
