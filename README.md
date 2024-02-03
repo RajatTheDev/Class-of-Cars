@@ -41,4 +41,4 @@ Feel free to customise the project as per your preferences and create your favou
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE.md), allowing for collaboration and sharing.
+This project is licensed under the [MIT License](LICENSE), allowing for collaboration and sharing.
