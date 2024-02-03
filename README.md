@@ -38,3 +38,7 @@ To get started with the project, follow the steps:
 ## Usage
 
 Feel free to customise the project as per your preferences and create your favourite Classes of Cars!
+
+## License
+
+This project is licensed under the [MIT License](LICENSE.md), allowing for collaboration and sharing.
